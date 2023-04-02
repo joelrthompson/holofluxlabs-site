@@ -1,6 +1,6 @@
-title: Minimal theme
+title: holoflux labs
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: holoflux labs develops at the intersection of art and science, cultivating creative technical projects that challenge traditional boundaries and inspire revolutionary ideas.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
